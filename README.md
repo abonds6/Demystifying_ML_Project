@@ -1,4 +1,5 @@
 # Demystifying_ML_Project
+By Claude David, Alicia Bonds, Liz Emley, Halle Morel and Bill Malley
 
 ### Dataset 
 
