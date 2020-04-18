@@ -3,11 +3,11 @@
 ### Dataset 
 
 * Data is taken from MovieLens
-* You need to download dataset from [this link](https://drive.google.com/drive/folders/1JnQXDCsGAb75I4PRRMDHUO0WxmXT-usv?usp=sharing)
+* You need to download dataset from input_data folder
 
 ## Dependencies
 
-* Python >=3.5
+* Python >=3.6
 * pandas
 * numpy
 * scipy
