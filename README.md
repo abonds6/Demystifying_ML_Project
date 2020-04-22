@@ -38,7 +38,7 @@ __Hybrid Recommendation System__
 
 * Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
-## Dependencies
+### Dependencies
 Make sure to install all of these dependencies
 ```
  nltk:             $ pip install nltk
@@ -56,3 +56,4 @@ Make sure to install all of these dependencies
  jupyter lab       $ pip install jupyterlab
  textblob          $ conda install -c conda-forge textblob 
 ```
+## Spotify Recommendation System
