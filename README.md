@@ -2,7 +2,7 @@
 By Claude David, Alicia Bonds, Liz Emley, Halle Morel and Bill Malley
 
 # Combatting Mental Health: Quarantine Package
-Due to the nature of COVID-19, many people are obliged to stay home in order to faltten the curve of the virus. As a result we find ourselves socially isolating from each other which can be detrimental to our health. We decided to uplift everyone by providing a quarantine package that will ultimately uplift your mood by suggesting a few things to do while you're home. 
+Due to the nature of COVID-19, many people are obliged to stay home in order to faltten the curve of the virus. As a result we find ourselves socially isolating from each other which can be detrimental to our health. We decided to uplift everyone by providing a quarantine package that will ultimately uplift your mood by suggesting a few things to do while you're home or top places to travel to once we're able to travel again. 
 
 ## Movie Recommendation System
 _A Web Base user-item Movie Recommendation Engine using_ _**Simple, Content Based, Collaborative Filtering, and Hybrid Recommendation Systems**_
