@@ -56,4 +56,5 @@ Make sure to install all of these dependencies
  jupyter lab       $ pip install jupyterlab
  textblob          $ conda install -c conda-forge textblob 
 ```
+---------------------------------
 ## Spotify Recommendation System
