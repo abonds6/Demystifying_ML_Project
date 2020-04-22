@@ -15,7 +15,7 @@ __Content Based Recommendation System__
 * This builds a recommender using movie descriptions and taglines. Since we do not have a quantitative metric to judge our machine's performance so this will have to be done qualitatively. The more taglines involved, the better the recommendation system. 
 
 __Collaborative Filtering Recommendation System__
-* Collaborative Filtering uses a matrix factorizations algorithm and is based on the underlying idea that is if two persons both liked certian common movies, then the movies that one person has liked that the other person has not yet watched can be recommended to him. 
+* Collaborative Filtering uses a matrix factorizations algorithm and is based on the underlying idea that is if two persons both liked certain common movies, then the movies that one person has liked that the other person has not yet watched can be recommended to him. 
 
 __Hybrid Recommendation System__
 * The Hybrid recommender brings together techniques we have implemented in the content based and collaborative filter based engines.
