@@ -48,11 +48,11 @@ Make sure to install all of these dependencies
  scikit-surprise:  $ conda install -c conda-forge scikit-surprise
  Pandas:           $ pip install pandas
  matplotlib: 
-                    $ apt-get install libfreetype6-dev libpng-dev
-                    $ pip install matplotlib 
+                   $ apt-get install libfreetype6-dev libpng-dev
+                   $ pip install matplotlib 
  seaborn:          $ pip install seaborn
  jupyter notebook: $ apt-get -y install ipython ipython-notebook
-                    $ -H pip install jupyter
+                   $ -H pip install jupyter
  jupyter lab       $ pip install jupyterlab
  textblob          $ conda install -c conda-forge textblob 
 ```
