@@ -12,7 +12,7 @@ __Simple Recommendation System__
 The basic idea behind this recommender is that movies that are more popular and more critically acclaimed will have a higher probability of being liked by the average audience. The only dowside to this model is that it does not give personalized recommendations based on the user.
 
 __Content Based Recommendation System__
-* This builds a recommender using movie descriptions and taglines. Since we do not have a quantitative metric to judge our machine's performance so this will have to be done qualitatively. The more taglines involved, the betterr the recommendation system. 
+* This builds a recommender using movie descriptions and taglines. Since we do not have a quantitative metric to judge our machine's performance so this will have to be done qualitatively. The more taglines involved, the better the recommendation system. 
 
 __Collaborative Filtering Recommendation System__
 * Collaborative Filtering uses a matrix factorizations algorithm and is based on the underlying idea that is if two persons both liked certian common movies, then the movies that one person has liked that the other person has not yet watched can be recommended to him. 
