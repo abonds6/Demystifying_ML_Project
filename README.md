@@ -24,7 +24,7 @@ __Hybrid Recommendation System__
 ### Dataset 
 
 * Data is taken from MovieLens
-* You need to download dataset from this [link] (https://drive.google.com/file/d/1UqPAeLIQONcy6UlBJen96XB4VmhDtmcQ/view?usp=sharing)
+* You need to download dataset from this [link](https://drive.google.com/file/d/1UqPAeLIQONcy6UlBJen96XB4VmhDtmcQ/view?usp=sharing)
 
 ### Types of dataset
 
