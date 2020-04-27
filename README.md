@@ -1,4 +1,4 @@
-# Demystifying_ML_Project
+# Demystifying Machine Learning Project
 By Claude David, Alicia Bonds, Liz Emley, Halle Morel and Bill Malley
 
 # Combating Mental Health: Quarantine Package
